@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+}
+.nav h1{
+    color: antiquewhite;
+    
+}
+.nav h1:hover{
+    color: blueviolet;
+}
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    margin-right: 8px;
+    padding: 8px;
+    gap: 20px;
+    
+    
+}
+.list li a{
+    font-size: 20px;
+    color: beige;
+    /* list-style: none; */
+    text-decoration: none;
+  
+}
+.list li a:hover{
+    color: blueviolet;
+}

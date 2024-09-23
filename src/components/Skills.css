@@ -1,0 +1,34 @@
+.skill{
+    display: flex;
+    color:rgb(7,123,50);
+    align-items: center;
+    justify-content: center;
+    
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.sk{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 100%;
+
+    border: 1px solid red;
+}
+.boxs{
+    height: 400px;
+    width: 300px;
+    border: 1px solid red;
+
+}
+/* span{
+    color: bisque;
+} */
+.text2{
+    color:rgb(7,123,50) ;
+}
+
+.text{
+    color: aliceblue;
+}
