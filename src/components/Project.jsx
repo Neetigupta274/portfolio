@@ -6,7 +6,7 @@ export default function Project() {
     <div>
       
       <div className='pro'>
-        <h1>Projects</h1>
+        <h1>docoment</h1>
       </div>
      <div className='maincard'>
      
